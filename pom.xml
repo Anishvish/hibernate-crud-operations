@@ -50,8 +50,8 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springdoc</groupId>
-			<artifactId>springdoc-openapi-ui</artifactId>
-			<version>1.6.15</version>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.0.4</version>
 		</dependency>
 		<dependency>
 			<groupId>io.swagger</groupId>
@@ -61,7 +61,7 @@
 		<dependency>
 			<groupId>io.swagger.core.v3</groupId>
 			<artifactId>swagger-models</artifactId>
-			<version>2.1.10</version>
+			<version>2.2.8</version>
 		</dependency>
 	</dependencies>
 
